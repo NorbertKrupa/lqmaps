@@ -1,2 +1,2 @@
-# lqmaps
-Laser Quest Arenas Maps
+# Laser Quest Maps
+Laser Quest Arenas Maps compiled from a Nepenthe backup
