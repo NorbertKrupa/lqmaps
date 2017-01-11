@@ -1,2 +1,2 @@
 # Laser Quest Maps
-Laser Quest Arenas Maps compiled from a Nepenthe backup
+Laser Quest arena maps compiled from a Nepenthe backup
